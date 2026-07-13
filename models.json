@@ -37,5 +37,6 @@
       "status": "AVAILABLE",
       "effortEnabled": false
     }
-  ]
+  ],
+  "configVersion": 1783949493
 }
