@@ -1,0 +1,13 @@
+{
+  "latestVersionCode": 2,
+  "latestVersionName": "zorix-2.0",
+  "forceUpdate": false,
+  "title": "发现新版本",
+  "message": "Zorix AI 有新版本可用，建议更新以获得更好的体验。",
+  "apkUrl": "https://zorix-official-A.github.io/app/zorix-latest.apk",
+  "changelog": [
+    "修复 SSE 流式输出",
+    "支持 Markdown 和 KaTeX 渲染",
+    "优化模型配置"
+  ]
+}

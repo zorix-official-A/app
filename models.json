@@ -1,0 +1,30 @@
+{
+  "defaultModelId": "model-nex-plus",
+  "models": [
+    {
+      "id": "model-nex-plus",
+      "name": "Zorix Nex Plus",
+      "description": "General chat, analysis and planning.",
+      "pro": false,
+      "selectable": true,
+      "status": "AVAILABLE"
+    },
+    {
+      "id": "model-nex-coder-28",
+      "name": "Zorix Nex Coder 2.8",
+      "description": "Coding, debugging and repository changes. Supports reasoning effort.",
+      "pro": true,
+      "selectable": true,
+      "status": "AVAILABLE",
+      "effortEnabled": true
+    },
+    {
+      "id": "model-star-flash-21",
+      "name": "Zorix Star Flash 2.1",
+      "description": "Fast text answers with balanced quality.",
+      "pro": false,
+      "selectable": true,
+      "status": "AVAILABLE"
+    }
+  ]
+}

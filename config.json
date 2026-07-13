@@ -1,0 +1,10 @@
+{
+  "apiBaseUrl": "https://zorix.it",
+  "chatEndpoint": "https://zorix.it/api/ai/chat",
+  "sessionEndpoint": "https://zorix.it/api/me",
+  "enableSse": true,
+  "enableMarkdown": true,
+  "enableKatex": true,
+  "enableAnnouncements": true,
+  "enableRemoteModels": true
+}
