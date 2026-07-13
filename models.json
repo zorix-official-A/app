@@ -27,15 +27,6 @@
       "selectable": true,
       "status": "AVAILABLE",
       "effortEnabled": false
-    },
-    {
-      "id": "model-test",
-      "name": "Zorix  Test Model v2",
-      "description": "Remote config test model.",
-      "pro": false,
-      "selectable": true,
-      "status": "AVAILABLE",
-      "effortEnabled": false
     }
   ],
   "configVersion": 1783949493
