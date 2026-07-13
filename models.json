@@ -7,7 +7,8 @@
       "description": "General chat, analysis and planning.",
       "pro": false,
       "selectable": true,
-      "status": "AVAILABLE"
+      "status": "AVAILABLE",
+      "effortEnabled": false
     },
     {
       "id": "model-nex-coder-28",
@@ -24,7 +25,17 @@
       "description": "Fast text answers with balanced quality.",
       "pro": false,
       "selectable": true,
-      "status": "AVAILABLE"
+      "status": "AVAILABLE",
+      "effortEnabled": false
+    },
+    {
+      "id": "model-test",
+      "name": "Zorix Test Model",
+      "description": "Remote config test model.",
+      "pro": false,
+      "selectable": true,
+      "status": "AVAILABLE",
+      "effortEnabled": false
     }
   ]
 }
