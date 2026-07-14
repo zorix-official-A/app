@@ -2,12 +2,13 @@
   "latestVersionCode": 2,
   "latestVersionName": "zorix-2",
   "forceUpdate": false,
-  "title": "",
-  "message": "",
-  "apkUrl": "",
+  "title": "update",
+  "message": "update",
+  "apkUrl": "update",
   "changelog": [
     "修复 SSE 流式输出",
     "支持 Markdown 和 KaTeX 渲染",
     "优化模型配置"
-  ]
+  ],
+  "svg": "update"
 }
