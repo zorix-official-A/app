@@ -27,6 +27,15 @@
       "selectable": true,
       "status": "AVAILABLE",
       "effortEnabled": false
+    },
+    {
+      "id": "model-flash",
+      "name": "Zorix star flash 3",
+      "description": "the new flagship of star flash of the zorix",
+      "pro": false,
+      "selectable": true,
+      "status": "AVAILABLE",
+      "effortEnabled": false
     }
   ],
   "configVersion": 1783949493
